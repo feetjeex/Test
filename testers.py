@@ -13,5 +13,8 @@ def main():
     for fruit in fruits:
         print('The current fruit is: ', fruit)
 
+    for letter in 'String':
+        print('The current letter is: ', letter)
+
 if __name__ == "__main__":
     main()
